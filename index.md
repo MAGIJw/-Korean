@@ -228,7 +228,7 @@ html {
 </style>
 </head>
 <body>
-<h1>English</h1>
+<h1>한국어</h1>
 
 <div class="vertical-menu">
   <a href="#" class="active">Korean</a>
