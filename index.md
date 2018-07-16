@@ -231,7 +231,7 @@ html {
 <h1>한국어</h1>
 
 <div class="vertical-menu">
-  <a href="#">字母 & 發音</a>
+  <a href="https://magijw.github.io/baseKorean/">字母 & 發音</a>
   <a href="#">初級單字 & 文法</a>
   <a href="#">中級單字 & 文法</a>
   <a href="#">高級單字 & 文法</a>
